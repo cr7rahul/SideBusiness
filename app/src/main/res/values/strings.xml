@@ -2,4 +2,10 @@
     <string name="app_name">MovieNews</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello login fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or_login_using">Or login using</string>
+    <string name="username_cannot_be_empty">Username cannot be empty</string>
+    <string name="password_cannot_be_empty">Password cannot be empty</string>
 </resources>
